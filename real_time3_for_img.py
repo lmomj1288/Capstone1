@@ -5,6 +5,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array
 
+# git practice
 # 나이와 감정의 범위 설정
 age_list = ['60 under', '60 over']
 emotion_list = ['Red', 'Green']
